@@ -1,4 +1,4 @@
-## Hi there 👋 we are PLUSTEAM an Agile Software Factory
+## Hi there 👋 we are plusteam an agile software factory 👨🏻‍💻
 
 We are your technological partner to create software solutions that will help boost your business in this digital era. 
 
