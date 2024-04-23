@@ -1,5 +1,10 @@
 ## Hi there 👋 we are PLUSTEAM an Agile Software Factory
 
+We are your technological partner to create software solutions that will help boost your business in this digital era. 
+
+We believe in Teamwork because **+T**ogether **E**veryone **A**chieves **M**ore.
+
+![plusteam logo](https://www.plusteam.tech/web/image/1112-3cba7325/Background%20copy.png)
 <!--
 
 **Here are some ideas to get you started:**
